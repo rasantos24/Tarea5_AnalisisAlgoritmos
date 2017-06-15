@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1496755506 source:c:\users\rafael\documents\tarea5_aa\edge.cpp
+	"Edge.h"
+
+1496755506 c:\users\rafael\documents\tarea5_aa\edge.h
+
+1496755506 source:c:\users\rafael\documents\tarea5_aa\test.cpp
+	"Test.h"
+
+1496755506 c:\users\rafael\documents\tarea5_aa\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
+1496873807 source:c:\users\rafael\documents\tarea5_aa\main.cpp
+	"Test.h"
+	<iostream>
+	"Edge.h"
+
